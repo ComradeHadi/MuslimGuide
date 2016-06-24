@@ -11,7 +11,7 @@ Muslim Guide provides a set of handy functions like Read Quran , Listen QuranWit
 You can report any issue on issues page. **Note: If you speak Arabic, you can submit issues with Arabic language and I will check them. :)**
 
 
-
+https://play.google.com/store/apps/details?id=com.hgo.musilmguide
 
 ## License
 ------ 
